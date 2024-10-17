@@ -1,4 +1,4 @@
 # projects-demo
 Thish is my first project.
 <br>
-Author - Satyam kumar singh (project-demo)  
+Author - Satyam kumar singh (Project)
